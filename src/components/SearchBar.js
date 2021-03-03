@@ -5,7 +5,7 @@ const SearchBar = ({ onSearch }) => {
     return (
         <View style={styles.searchBar}>
             <TextInput
-                placeholder="Search"
+                placeholder="Search a product"
                 onChangeText={onSearch}
             />
         </View>
