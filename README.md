@@ -1,6 +1,6 @@
 
 
-<h1 align="center">ShoppingApp</h1>
+<h1 align="center">Shopping App</h1>
 
 
 
